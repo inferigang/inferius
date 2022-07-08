@@ -1,13 +1,14 @@
-# inferius
+# 🔥 inferius
 
 <img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_banner.jpg">
-<p align="center"> An underworld computing theme</p>
+<h3 align="center"> An underworld computing theme</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/inferigang/inferius?color=red&logo=github&logoColor=coral&style=for-the-badge">
-    <img src="https://img.shields.io/github/issues/inferigang/inferius?color=red&logo=github&logoColor=coral&style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/inferigang/inferius?color=red&label=STARS&logo=github&logoColor=coral&style=for-the-badge">
-    <img src="https://img.shields.io/github/languages/code-size/inferigang/inferius?color=yellow&logo=github&logoColor=coral&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/inferigang/inferius?color=coral&logo=github&logoColor=coral&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/inferigang/inferius?color=coral&logo=github&logoColor=coral&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/inferigang/inferius?color=coral&logo=github&logoColor=coral&style=for-the-badge">
+    <img src="https://img.shields.io/github/stars/inferigang/inferius?color=coral&label=STARS&logo=github&logoColor=coral&style=for-the-badge">
+    <img src="https://img.shields.io/github/languages/code-size/inferigang/inferius?color=coral&logo=github&logoColor=coral&style=for-the-badge">
 </p>
 
 ___
