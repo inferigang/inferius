@@ -12,4 +12,7 @@
 
 ___
 
-Inferius is the official inferigang theme for a bunch of apps
+<br>
+
+## 🎨 Color Palette
+<img src="https://github.com/inferigang/inferius/blob/main/assets/inferi_color_palette.jpg">
