@@ -21,6 +21,6 @@ ___
 <br>
 
 ## What is **inferius**?
-Aggresive, striking and stylish. Inferius is the official theme created by Inferi Gang that can be used in a bunch of apps like: VSCode, Notepad++, IDA, etc...
+Aggressive, striking, and stylish. Inferius is the official theme created by Inferi Gang that can be used in a bunch of apps like VSCode, Notepad++, IDA, etc...
 
-Inferius is a dedicated dark theme used by developers, reverse engineers or just dark theme enthusiasts. If you like of a good syntax highlighting, prefer vibrant colors and loves god, this theme is perfect for you!
+Inferius is a dedicated dark theme used by developers, reverse engineers, or just dark theme enthusiasts. If you like good syntax highlighting, prefer vibrant colors, and love god, this theme is perfect for you!
