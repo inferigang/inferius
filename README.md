@@ -16,7 +16,7 @@ ___
 <br>
 
 ## 🎨 Color Palette
-<img src="https://github.com/inferigang/inferius/blob/main/assets/inferi_color_palette.jpg">
+<img src="https://github.com/inferigang/inferius/blob/testing/assets/inferi_color_palette.jpg">
 
 <br>
 
