@@ -15,6 +15,11 @@ ___
 
 <br>
 
+## Color Palette
+<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_color_palette.jpg">
+
+<br>
+
 ## What is **inferius**?
 Aggressive, striking, and stylish. Inferius is the official theme created by Inferi Gang that can be used in a bunch of apps like VSCode, Notepad++, IDA, etc...
 
