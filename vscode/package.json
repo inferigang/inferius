@@ -1,0 +1,38 @@
+{
+    "name": "inferius",
+    "displayName": "inferius",
+    "description": "The underworld computing theme",
+    "version": "1.0.0",
+    "publisher": "inferigang",
+    "icon": "images/inferi.png",
+
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+
+    "repository": {
+        "type": "git",
+        "directory": "https://github.com/inferigang/inferius"
+    },
+
+    "author": "oppsec",
+
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+
+    "categories": [
+        "Themes"
+    ],
+
+    "contributes": {
+        "themes": [
+            {
+                "label": "inferius",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inferius-color-theme.json"
+            }
+        ]
+    }
+}
