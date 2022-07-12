@@ -1,6 +1,6 @@
 # 🔥 inferius
 
-<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_vscode_banner.jpg">
+<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_banner.jpg">
 <h3 align="center"> An underworld computing theme</h3>
 
 <p align="center">
