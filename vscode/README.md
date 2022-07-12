@@ -1,6 +1,6 @@
 # inferius | Visual Studio Code Theme
 
-<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_banner.jpg">
+<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_vscode_banner.jpg">
 <h3 align="center"> An underworld computing theme (for Visual Studio Code) </h3>
 
 <p align="center">
