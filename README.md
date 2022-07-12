@@ -1,6 +1,6 @@
 # 🔥 inferius
 
-<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_banner.jpg">
+<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_vscode_banner.jpg">
 <h3 align="center"> An underworld computing theme</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ ___
 <br>
 
 ## 🎨 Color Palette
-<img src="https://github.com/inferigang/inferius/blob/testing/assets/inferi_color_palette.jpg">
+<img src="https://raw.githubusercontent.com/inferigang/.github/main/inferi_color_palette.jpg">
 
 <br>
 
